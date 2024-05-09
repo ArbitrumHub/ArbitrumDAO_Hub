@@ -114,7 +114,7 @@ theHubHomePage:
   title: "Community Hub"
   description: "Welcome to the Community Hub - Arbitrum DAO's first attempt at creating a truly collaborative and engaging environment for its community. Here, members come together to share ideas, discuss innovations, and contribute to the growth of the ecosystem. With a focus on decentralization and inclusivity, the hub aims to foster meaningful connections and empower every member to play a part in shaping the future of Arbitrum DAO and web3 technologies. Join this vibrant and collaborative community where everyone's voice is valued and heard."
   forYou:
-    title: "What’s in for You?"
+    title: "What’s in for You? "
     description: "Welcome to the Community Hub, the epicenter of community engagement. Connect with global Arbitrum DAO Ambassadors, explore collaboration opportunities, contribute to creating more educational resources, discover upcoming events, and explore job opportunities. Join us on this exciting journey!"
     cards:
       - label: "Ambassadors"
@@ -126,7 +126,7 @@ theHubHomePage:
         image: "./forYou/collaboration.png"
         link: "/community-hub/collaborations/"
       - label: "Contributions"
-        description: "Dive into the wealth of educational resources within the vibrant Arbitrum DAO Community. Access a diverse range of content, including informative articles and engaging video tutorials, designed to deepen your understanding of Arbitrum DAO's innovative technology. Whether you're a beginner seeking to grasp the fundamentals or an experienced developer looking to expand your expertise, this comprehensive library caters to all levels of proficiency. Whether it's a tutorial, a case study, or an analysis, your contribution will enrich our educational repository and empower fellow community members on their learning paths. Ready to share your insights and contribute to the collective knowledge of Arbitrum DAO's community?"
+        description: "Dive into the wealth of educational resources within the vibrant Arbitrum DAO Community. Access a diverse range of content, including informative articles and engaging video tutorials, designed to deepen your understanding of Arbitrum DAO's innovative technology. Whether you're a beginner seeking to grasp the fundamentals or an experienced developer looking to expand your expertise, this comprehensive library caters to all levels of proficiency. Whether it's a tutorial, a case study, or an analysis, your contribution will enrich our educational repository and empower fellow community members on their learning paths. Ready to share your insights and contribute to the collective knowledge of Arbitrum DAO's community? This is for the demo."
         image: "./forYou/contributions.png"
         link: "/community-hub/contributions/videos/"
       - label: "Initiatives"
